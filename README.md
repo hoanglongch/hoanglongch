@@ -1,13 +1,33 @@
 ## Hi there 👋
 
-Hi, My name is Liam, I'm passionate about Web3, Cryptography, AI/ML, Software Development
-A little bit about me:
+I’m **Liam**, a passionate Software Engineer with a focus on **Web3**, **Cryptography**, **AI/ML**, and cutting-edge **Blockchain** technologies.
 
-- 🔭 I’m currently working on Crypto Trading Bot, Blockchain Research
-- 📄 Know about my experiences:
-* Datacurve | Software Engineer: Building high-frequency market making system
-* DFG | Founder/Software Engineer: Simplify Payment System
-* University of South Florida | Blockchain Research Assistant: Develop Layer 2 Scaling Solution accross mainnets
-* University of South Florida | Cryptography Research Engineer: Build post-quantum cryptography system
-* Elofun Entertainment | Backend Developer Intern: Build asynchronized multiplayer backend
+---
 
+### 🔭 Currently Working On
+- **Crypto Trading Bot**  
+  Automated strategies for high-frequency market making and arbitrage  
+- **Layer-2 Scaling Solutions**  
+  Research & prototyping for cross-chain rollups and optimistic bridges  
+
+---
+
+### 📄 Professional Experience
+| Organization                                | Role                                    | Highlights                                                                                 |
+| ------------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Datacurve                                   | Software Engineer                       | Architected a low-latency, high-frequency market-making engine                              |
+| DFG                                         | Founder & Software Engineer             | Spearheaded a seamless payment system, serving thousands of daily transactions             |
+| University of South Florida                 | Blockchain Research Assistant           | Developed Layer-2 scaling protocols across multiple base chains                            |
+| University of South Florida                 | Cryptography Research Engineer          | Built and benchmarked post-quantum cryptographic libraries                                |
+| Elofun Entertainment                        | Backend Developer Intern                | Engineered asynchronous, multiplayer backends supporting real-time gameplay               |
+
+---
+
+### 🌱 What I’m Learning
+- **Zero-Knowledge Proofs & zk-SNARKs**  
+- **Advanced Reinforcement Learning**  
+- **Rust for Systems Programming**  
+
+---
+
+> “Solving tomorrow’s problems with today’s code.” 🚀
